@@ -1,0 +1,2 @@
+:bind ;l hint -F e => e.dispatchEvent(new MouseEvent('mouseover', {}))
+:bind ;L hint -F e => e.dispatchEvent(new MouseEvent('mouseleave', {}))
